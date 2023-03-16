@@ -116,7 +116,7 @@ p.button{
 }
 
 .first .first-text p{
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     color: #fff;
 }
 
@@ -160,7 +160,7 @@ p.button{
 }
 
 .second .second-text p{
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     color: #fff;
 }
 
@@ -295,7 +295,7 @@ p.button{
     }
 
     .first{
-        flex-direction: column-reverse;
+        flex-direction: column;
         justify-content: center;
         padding: 2rem 1rem;
         text-align: center;
@@ -328,7 +328,7 @@ p.button{
     
     
     .second{
-        flex-direction: column;
+        flex-direction: column-reverse;
         justify-content: center;
         padding: 2rem 1rem;
         text-align: center;
