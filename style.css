@@ -457,3 +457,9 @@ p.button{
     
 }
 
+@media screen and (max-width: 496px){
+    .footer{
+        margin-right: 120px;
+    }
+}
+
